@@ -445,7 +445,7 @@ cd <repo-folder>
 Open:
 
 ```text
-EXP_4.ipynb
+image-classification.ipynb
 ```
 
 in Google Colab.
@@ -510,7 +510,7 @@ The notebook will:
 ```text
 project-folder/
 │
-├── EXP_4.ipynb
+├── image-classification.ipynb
 ├── README.md
 │
 └── images/
