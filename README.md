@@ -4,13 +4,13 @@ Coursework for the R Programming course, B.Tech Computer Engineering, Vidyalanka
 
 **Author:** Vijay S Hanumandla · 23102C0071
 
-The repository has two parts: weekly practice notebooks that follow the lectures, and lab experiments that apply R to real datasets.
+The repository has two parts: NPTEL weekly assignment notebooks, and lab experiments that apply R to real datasets.
 
 ## Repository structure
 
 ```
 .
-├── weekly-practice/
+├── nptel-weekly-assignments/
 │   ├── week-02-data-types-and-vectors.ipynb
 │   ├── week-03-vector-operations.ipynb
 │   ├── week-04-matrices.ipynb
@@ -31,7 +31,7 @@ The repository has two parts: weekly practice notebooks that follow the lectures
     └── lab-08-big-data-analytics/
 ```
 
-## Weekly practice
+## NPTEL weekly assignments
 
 | Week | Topic |
 | --- | --- |
